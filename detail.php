@@ -111,13 +111,13 @@
                                 </button>
                             </div>
                         </div>
-                        <a href="whatsapp://send?text=Hello&phone=+6285758925907" class="btn btn-primary px-3"><i class="fa-brands fa-whatsapp mr-1"></i> Send To wa</a>
+                        <a href="https://wa.me/6285758925907?text=Halo%2C+saya+ingin+bertanya+tentang+produk+Anda" target="_blank" class="btn btn-primary px-3"><i class="fa-brands fa-whatsapp mr-1"></i> Send To wa</a>
                     </div>
                     <div class="d-flex pt-2">
                         <strong class="text-dark mr-2">Share on:</strong>
                         <div class="d-inline-flex">
                             <a class="text-dark px-2" href="">
-                                <i class="fab fa-facebook-f"></i>
+                                <i class="fab fa-facebook-f"></i> 
                             </a>
                             <a class="text-dark px-2" href="">
                                 <i class="fab fa-twitter"></i>
