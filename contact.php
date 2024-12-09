@@ -83,12 +83,12 @@
             <div class="col-lg-5 mb-5">
                 <div class="bg-light p-30 mb-30">
                     <iframe style="width: 100%; height: 300px;"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3972.251302651388!2d105.2531696745933!3d-5.378603953791736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e40db26d7e75e77%3A0xf3a44502accc0b1d!2sHAF%20TECH%20COMPUTER!5e0!3m2!1sen!2sid!4v1718085765358!5m2!1sen!2sid" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                    src="https://maps.app.goo.gl/SquwX4mXcx2pT11WA" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                 </div>
                 <div class="bg-light p-30 mb-3">
-                    <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>Jl. Pelita I No.29, Labuhan Ratu, Kec. Kedaton, Kota Bandar Lampung, Lampung 35132</p>
-                    <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>harlemtrack@gmail.com</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt text-primary mr-3"></i>085269635353</p>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>jl.pagar alam no.17 Sidorahayu pu kedaton ( Central Oleh-oleh lampung), Bandar Lampung 35141</p>
+                    <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>keripikrossa@gmail.com</p>
+                    <p class="mb-2"><i class="fa fa-phone-alt text-primary mr-3"></i>082182818303</p>
                 </div>
             </div>
         </div>

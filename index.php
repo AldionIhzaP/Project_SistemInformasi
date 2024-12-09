@@ -31,7 +31,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>HAF-Tech</title>
+    <title>Keripik Rossa</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -72,8 +72,8 @@
                             <img class="position-absolute w-100 h-100" src="img/logo-haf-tech.jpg" style="object-fit: cover;">
                             <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                                 <div class="p-3" style="max-width: 700px;">
-                                    <h1 class="display-4 text-white mb-3 animate__animated animate__fadeInDown">Haf Tech</h1>
-                                    <p class="mx-md-5 px-5 animate__animated animate__bounceIn">Est 2021. <br>Offline Store : Jln. Pelita I No 14/29 Labuhan Ratu B. Lampung <br>Google Maps : haf tech computer <br>Wa : 085269635353</p>
+                                    <h1 class="display-4 text-white mb-3 animate__animated animate__fadeInDown">Keripik Rossa</h1>
+                                    <p class="mx-md-5 px-5 animate__animated animate__bounceIn">Est 2021. <br>Offline Store : jl.pagar alam no.17 Sidorahayu pu kedaton ( Central Oleh-oleh lampung), Bandar Lampung 35141 <br>Google Maps : Kerpik Rossa  <br>Wa : 082182818303</p>
                                 </div>
                             </div>
                         </div>
@@ -82,14 +82,14 @@
             </div>
             <div class="col-lg-4">
                 <div class="product-offer mb-30" style="height: 200px;">
-                    <img class="img-fluid" src="img/mitra-1.jpg" alt="">
+                    <img class="img-fluid" src="img/ks1.jpg" alt="">
                     <div class="offer-text">
                         <h6 class="text-white text-uppercase"></h6>
                         <h3 class="text-white mb-3"></h3>
                     </div>
                 </div>
                 <div class="product-offer mb-30" style="height: 200px;">
-                    <img class="img-fluid" src="img/mitra-2.jpg" alt="">
+                    <img class="img-fluid" src="img/ks2.jpeg" alt="">
                     <div class="offer-text">
                         <h6 class="text-white text-uppercase"></h6>
                         <h3 class="text-white mb-3"></h3>
@@ -104,11 +104,7 @@
     <!-- Featured Start -->
     <div class="container-fluid pt-5">
         <div class="row px-xl-5 pb-3">
-            <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
-                <div class="d-flex align-items-center bg-light mb-4" style="padding: 30px;">
-                    <h1 class="fa fa-check text-primary m-0 mr-3"></h1>
-                    <h5 class="font-weight-semi-bold m-0">Quality Product</h5>
-                </div>
+   
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 pb-1">
                 <div class="d-flex align-items-center bg-light mb-4" style="padding: 30px;">
@@ -231,28 +227,28 @@
             <div class="col">
                 <div class="owl-carousel vendor-carousel">
                     <div class="bg-light p-4">
-                        <img src="img/logo1.png" alt="">
+                        <img src="img/ks2.jpeg" alt="">
                     </div>
                     <div class="bg-light p-4">
-                        <img src="img/logo2.png" alt="">
+                        <img src="img/ks2.jpeg" alt="">
                     </div>
                     <div class="bg-light p-4">
-                        <img src="img/logo3.png" alt="">
+                        <img src="img/ks2.jpeg" alt="">
                     </div>
                     <div class="bg-light p-4">
-                        <img src="img/logo4.png" alt="">
+                        <img src="img/ks2.jpeg" alt="">
                     </div>
                     <div class="bg-light p-4">
-                        <img src="img/logo6.png" alt="">
+                        <img src="img/ks2.jpeg" alt="">
                     </div>
                     <div class="bg-light p-4">
-                        <img src="img/logo8.png" alt="">
+                        <img src="img/ks2.jpeg" alt="">
                     </div>
                     <div class="bg-light p-4">
-                        <img src="img/logo9.png" alt="">
+                        <img src="img/ks2.jpeg" alt="">
                     </div>
                     <div class="bg-light p-4">
-                        <img src="img/logo10.png" alt="">
+                        <img src="img/ks2.jpeg" alt="">
                     </div>
                 </div>
             </div>

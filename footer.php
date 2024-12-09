@@ -26,10 +26,10 @@
         <div class="row px-xl-5 pt-5">
             <div class="col-lg-4 col-md-12 mb-5 pr-3 pr-xl-5">
                 <h5 class="text-secondary text-uppercase mb-4">Get In Touch</h5>
-                <p class="mb-4">Toko Penjualan Seluruh Alat-alat Komputer</p>
-                <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>Jl. Pelita I No.29, Labuhan Ratu, Kec. Kedaton, <br>Kota Bandar Lampung, Lampung 35132</p>
-                <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>harlemtrack@gmail.com</p>
-                <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>085269635353</p>
+                <p class="mb-4">Toko Penjualan Aneka Ragam Oleh-oleh khas Lampung</p>
+                <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>jl.pagar alam no.17 Sidorahayu pu kedaton ( Central Oleh-oleh lampung), Bandar Lampung 35141</p>
+                <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>keripikrossa@gmail.com</p>
+                <p class="mb-0"><i class="fa fa-phone-alt text-primary mr-3"></i>082182818303</p>
             </div>
             <div class="col-lg-8 col-md-12">
                 <div class="row">
@@ -51,8 +51,8 @@
                         </div>
                     </div>
                     <div class="col-md-4 mb-5">
-                        <h5 class="text-secondary text-uppercase mb-4">Newsletter</h5>
-                        <p>Duo stet tempor ipsum sit amet magna ipsum tempor est</p>
+                        <h5 class="text-secondary text-uppercase mb-4">Kritik Dan Saran</h5>
+                        <p>Berikan Pertanyaan dan Masukan Anda</p>
                         <form action="">
                             <div class="input-group">
                                 <input type="text" class="form-control" placeholder="Your Email Address">
@@ -75,9 +75,9 @@
         <div class="row border-top mx-xl-5 py-4" style="border-color: rgba(256, 256, 256, .1) !important;">
             <div class="col-md-6 px-xl-0">
                 <p class="mb-md-0 text-center text-md-left text-secondary">
-                    &copy; <a class="text-primary" href="#">Domain</a>. All Rights Reserved. Designed
+                    &copy; <a class="text-primary" href="#">Keripik Rossa</a>. All Rights Reserved. Designed
                     by
-                    <a class="text-primary" href="https://htmlcodex.com">HTML Codex</a>
+                    <a class="text-primary" href="https://htmlcodex.com">Super NES</a>
                 </p>
             </div>
             <div class="col-md-6 px-xl-0 text-center text-md-right">

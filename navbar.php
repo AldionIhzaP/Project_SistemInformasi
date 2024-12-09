@@ -27,8 +27,8 @@
     <div class="row align-items-center bg-light py-3 px-xl-5 d-none d-lg-flex">
         <div class="col-lg-4">
             <a href="" class="text-decoration-none">
-                <span class="h1 text-uppercase text-primary bg-dark px-2">HAF</span>
-                <span class="h1 text-uppercase text-dark bg-primary px-2 ml-n1">TECH</span>
+                <span class="h1 text-uppercase text-primary bg-dark px-2">KERIPIK</span>
+                <span class="h1 text-uppercase text-dark bg-primary px-2 ml-n1">ROSSA</span>
             </a>
         </div>
         <div class="col-lg-4 col-6 text-left">
@@ -45,7 +45,7 @@
         </div>
         <div class="col-lg-4 col-6 text-right">
                 <p class="m-0">Customer Service</p>
-                <h5 class="m-0">+012 345 6789</h5>
+                <h5 class="m-0">082182818303</h5>
         </div>
     </div>
 </div>
@@ -71,8 +71,8 @@
             <div class="col-lg-9">
                 <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3 py-lg-0 px-0">
                     <a href="" class="text-decoration-none d-block d-lg-none">
-                        <span class="h1 text-uppercase text-dark bg-light px-2">HAF</span>
-                        <span class="h1 text-uppercase text-light bg-primary px-2 ml-n1">TECH</span>
+                        <span class="h1 text-uppercase text-dark bg-light px-2">Kerpik</span>
+                        <span class="h1 text-uppercase text-light bg-primary px-2 ml-n1">Rossa</span>
                     </a>
                     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                         <span class="navbar-toggler-icon"></span>

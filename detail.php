@@ -111,7 +111,7 @@
                                 </button>
                             </div>
                         </div>
-                        <a href="https://wa.me/6285758925907?text=Halo%2C+saya+ingin+bertanya+tentang+produk+Anda" target="_blank" class="btn btn-primary px-3"><i class="fa-brands fa-whatsapp mr-1"></i> Send To wa</a>
+                        <a href="https://wa.me/62895345060988?text=Halo%2C+saya+ingin+bertanya+tentang+produk+Anda" target="_blank" class="btn btn-primary px-3"><i class="fa-brands fa-whatsapp mr-1"></i> Send To wa</a>
                     </div>
                     <div class="d-flex pt-2">
                         <strong class="text-dark mr-2">Share on:</strong>
